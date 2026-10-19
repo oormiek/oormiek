@@ -1,82 +1,100 @@
-# Hi, I'm Oormila Ezhai Kannan 👋
+# 👋 Hello, World! I'm Oormila Ezhai Kannan
 
-### Software Developer | Application Support | Backend Development
+### Turning production problems into reliable solutions.
 
-I'm an IT professional with **7 years of enterprise experience** across production support and software development in the retail and telecom domains.
+> *Every problem leaves a trail. I like following the clues, connecting the dots, and turning what I find into something better.*
 
-I enjoy building applications, troubleshooting production issues, working with databases, and finding ways to make systems more reliable and maintainable.
+From investigating unexpected production behaviour to building applications that solve real-world problems, I enjoy working where **problem-solving meets software engineering**.
 
-Currently, I'm strengthening my skills in **Java backend development, cloud technologies, and CI/CD automation** while building practical projects.
+My journey spans enterprise application support and software development across retail and telecom. Along the way, I've learned that good engineering isn't just about writing code — it's about understanding the bigger picture, asking the right questions, and building solutions that stand the test of time.
+
+Currently exploring deeper into **Java backend engineering, cloud technologies, and automation** — one practical project at a time.
 
 📍 Mississauga, Ontario, Canada
 
-## 🛠️ Technical Skills
+---
 
+## 🧩 My Engineering Mindset
 
-## 🛠️ Tech Stack
+🔍 **Find the root, not just the symptom.**  
+Production troubleshooting has taught me to investigate beyond the obvious and look for the real cause.
 
-### Programming & Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+🔗 **Connect the dots.**  
+Applications, databases, APIs, and infrastructure don't work in isolation. I enjoy understanding how the pieces fit together.
 
-### Databases & Tools
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🛠️ **Learn by building.**  
+I believe the best way to turn theory into skill is to create something useful, test it, break it, and make it better.
 
-### Monitoring & Support
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-**Currently learning:** CI/CD pipelines, cloud deployment, and automated testing.
-
-## 🚀 Featured Projects
+## 🚀 Things I'm Building
 
 ### 🏠 GLO Handy Pro
-A full-stack web application for a handyman services business.
+**Bringing a real-world service idea to life through software.**
 
-- Built a React frontend and Java Spring Boot backend.
-- Integrated PostgreSQL and REST APIs for quote requests.
-- Worked with Docker during local development.
+A full-stack web application for a handyman services business, combining a React frontend with a Java Spring Boot backend and PostgreSQL.
 
-**Tech:** React · Java · Spring Boot · PostgreSQL · Docker
+- Building interactive user experiences and REST API integrations
+- Working on quote-request workflows and data persistence
+- Exploring practical application architecture and deployment workflows
 
-[View Repository](https://github.com/oormiek/glo-handy-pro)
+`React` `Java` `Spring Boot` `PostgreSQL` `Docker`
+
+[Explore the repository](https://github.com/oormiek/glo-handy-pro)
 
 ### 📊 SupportPulse
-An application health and troubleshooting toolkit for support engineers.
+**Making application troubleshooting more structured and accessible.**
 
-- Built an interactive troubleshooting application with Streamlit.
-- Used SQLite for data storage.
-- Added automated tests using pytest.
+An application health and troubleshooting toolkit designed around the challenges support engineers face when investigating issues.
 
-**Tech:** Python · Streamlit · SQLite · pytest
+- Developed an interactive application using Streamlit
+- Used SQLite for data storage
+- Added automated tests with pytest
 
-[View Repository](https://github.com/oormiek/SupportPulse)
+`Python` `Streamlit` `SQLite` `pytest`
 
-## 💼 Professional Experience
+[Explore the repository](https://github.com/oormiek/SupportPulse)
 
-- Enterprise production support and application troubleshooting
-- Software development in the telecom domain
-- Incident analysis, root cause investigation, and batch monitoring
-- Database querying, performance troubleshooting, and cross-team collaboration
+---
 
-## 🎯 Current Focus
+## 🧰 My Toolkit
 
-- Building practical Java and Spring Boot applications
-- Improving backend development and API design skills
-- Learning CI/CD, cloud deployment, and application monitoring
-- Creating projects that demonstrate real-world engineering and troubleshooting skills
+**Languages & Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+
+**Data, Monitoring & Troubleshooting**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🌱 What's Next?
+
+- Deepening my Java and Spring Boot development skills
+- Building reliable APIs and database-driven applications
+- Learning more about CI/CD, cloud deployment, and automated testing
+- Applying a production-support mindset to software design and reliability
+
+---
 
 ## 🤝 Let's Connect
 
-I'm interested in opportunities related to **Java Backend Development, Application Support, and Production Support Engineering**.
+Good ideas get better when people share them.
 
-Feel free to explore my repositories and connect with me!
+I'm interested in opportunities across **Java backend development, application support, and production support engineering**.
 
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/oormilaek/)
+
+*Always curious. Always building. Always looking for a better way.*
