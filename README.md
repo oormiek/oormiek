@@ -39,25 +39,30 @@ Currently, I'm strengthening my skills in **Java backend development, cloud tech
 
 ## 🚀 Featured Projects
 
-### 1. GLO Handy Pro
-A full-stack web application built for a handyman services business.
 
-- Developed a React and Vite frontend with a Java Spring Boot backend.
-- Integrated PostgreSQL for data persistence.
-- Implemented REST APIs for quote requests and backend functionality.
-- Worked on an image gallery workflow with Cloudinary integration.
-- Used Docker as part of the development environment.
+## 🚀 Featured Projects
 
-**Technologies:** React, Java, Spring Boot, PostgreSQL, Docker, Cloudinary
+### 🏠 GLO Handy Pro
+A full-stack web application for a handyman services business.
 
-### 2. SupportPulse
-An application health and troubleshooting toolkit designed to support incident investigation and troubleshooting workflows.
+- Built a React frontend and Java Spring Boot backend.
+- Integrated PostgreSQL and REST APIs for quote requests.
+- Worked with Docker during local development.
 
-- Built a Python-based application using Streamlit.
+**Tech:** React · Java · Spring Boot · PostgreSQL · Docker
+
+[View Repository](https://github.com/oormiek/glo-handy-pro)
+
+### 📊 SupportPulse
+An application health and troubleshooting toolkit for support engineers.
+
+- Built an interactive troubleshooting application with Streamlit.
 - Used SQLite for data storage.
-- Added automated tests with pytest.
+- Added automated tests using pytest.
 
-**Technologies:** Python, Streamlit, SQLite, pytest
+**Tech:** Python · Streamlit · SQLite · pytest
+
+[View Repository](https://github.com/oormiek/SupportPulse)
 
 ## 💼 Professional Experience
 
