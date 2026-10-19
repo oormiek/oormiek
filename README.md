@@ -12,12 +12,30 @@ Currently, I'm strengthening my skills in **Java backend development, cloud tech
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Java, SQL, Shell Scripting
-- **Backend:** Spring Boot, REST APIs, Spring Data JPA
-- **Databases:** Oracle, PostgreSQL, SQLite
-- **Monitoring & Support:** Splunk, Grafana, Production Incident Analysis, Root Cause Analysis
-- **Tools:** Git, GitHub, Maven, Postman, ServiceNow, Jira
-- **Currently Learning:** Docker workflows, CI/CD pipelines, and cloud deployment
+
+## 🛠️ Tech Stack
+
+### Programming & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Databases & Tools
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Monitoring & Support
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**Currently learning:** CI/CD pipelines, cloud deployment, and automated testing.
+
 
 ## 🚀 Featured Projects
 
