@@ -36,10 +36,6 @@ Currently, I'm strengthening my skills in **Java backend development, cloud tech
 
 **Currently learning:** CI/CD pipelines, cloud deployment, and automated testing.
 
-
-## 🚀 Featured Projects
-
-
 ## 🚀 Featured Projects
 
 ### 🏠 GLO Handy Pro
