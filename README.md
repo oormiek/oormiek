@@ -79,3 +79,9 @@ An application health and troubleshooting toolkit for support engineers.
 I'm interested in opportunities related to **Java Backend Development, Application Support, and Production Support Engineering**.
 
 Feel free to explore my repositories and connect with me!
+
+
+## 📈 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/oormiek)
+
