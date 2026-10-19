@@ -1,8 +1,33 @@
-# 👋 Hello, World! I'm Oormila Ezhai Kannan
+
+<!-- Animated gradient banner -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:D946EF&height=200&section=header&text=Oormila%20Ezhai%20Kannan&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    width="100%"
+    alt="Colorful gradient banner with Oormila Ezhai Kannan"
+  />
+</p>
+
+<!-- Animated tagline -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=700&color=06B6D4&center=true&vCenter=true&width=650&lines=Tracing+the+root+cause...;Building+with+Java+%26+Spring+Boot...;Connecting+the+dots+between+systems...;Turning+problems+into+solutions."
+    alt="Animated developer tagline"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
 
 ### Turning production problems into reliable solutions.
 
-> *Every problem leaves a trail. I like following the clues, connecting the dots, and turning what I find into something better.*
+Every problem leaves a trail. I like following the clues, connecting the dots, and turning what I find into something better.
 
 From investigating unexpected production behaviour to building applications that solve real-world problems, I enjoy working where **problem-solving meets software engineering**.
 
