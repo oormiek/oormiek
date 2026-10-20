@@ -15,7 +15,7 @@
 </p>
 
 
-👋 Hello, World! I'm Oormila Ezhai Kannan
+<h1> 👋 Hello, World! I'm Oormila Ezhai Kannan </h1>
 
 ### Turning production problems into reliable solutions.
 
