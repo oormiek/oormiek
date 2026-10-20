@@ -1,6 +1,6 @@
 
 
-## ✦ The Engineering Pulse
+## ✦ The DEBUG SIGNAL
 
 <p align="center">
   <img
